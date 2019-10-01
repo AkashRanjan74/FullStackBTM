@@ -1,0 +1,10 @@
+div{
+    border: 1px brown;
+    text-align: center;
+    color: #223344;
+}
+
+.col-md-1{
+    background: greenyellow;
+    border: 1px solid red;
+}

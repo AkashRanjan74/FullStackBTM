@@ -1,0 +1,20 @@
+div{
+    width: 22%;
+    background: red;
+    padding: 20px;
+    background-color: yellow;
+    /* margin: 5px; */
+    border-radius: 5px;
+    /* border: 2px solid black; */
+    display: inline-block;
+}
+div:nth-child(5){
+    background: blue;
+
+}
+div:nth-child(3){
+    background: pink;
+}
+div:nth-child(even){
+    background: green;
+}   
